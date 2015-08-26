@@ -1,0 +1,26 @@
+{
+  "name": "vue-chunk",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/thomastkim/vue-chunk",
+  "authors": [
+    "Thomas T Kim"
+  ],
+  "description": "Split an array into chunks using this custom filter for Vue.js.",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-chunk",
+    "filter",
+    "array",
+    "chunk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "node_modules",
+    "bower_components",
+    "*.json",
+    "example"
+  ]
+}
